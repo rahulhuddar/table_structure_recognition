@@ -39,9 +39,9 @@ python -m pip install paddlepaddle -i https://pypi.tuna.tsinghua.edu.cn/simple
 
 | Type | Model     | Link                |
 | :-------- | :------- | :------------------------- |
-| `Detection` | `DETR R18` | https://drive.google.com/file/d/1HS8AxnC2kCBy8aWmWlBimHeXI6qJkAlu/view?usp=drive_link |
-| `Structure Recognition` | `TATR-v1.1-Pub` | https://drive.google.com/file/d/1SN3UTi07eeMoHs2AC1IZ4YqdQVBmO-3v/view?usp=drive_link |
-| `Structure Recognition` | `TATR-v1.1-Fin` | https://drive.google.com/file/d/1Lh9MxN1urBDIDjjhJ-ddlLz3MwbiKQum/view?usp=drive_link |
+| `Detection` | `DETR R18` | https://drive.google.com/file/d/1MKzGbeel5zviGp1EUiKnpt7KMhlWxQgk/view?usp=sharing |
+| `Structure Recognition` | `TATR-v1.1-Pub` | https://drive.google.com/file/d/1M5Ifxr6Ee4PDaGFzbOG-djws83c6NM24/view?usp=sharing |
+| `Structure Recognition` | `TATR-v1.1-Fin` | https://drive.google.com/file/d/1goqMsI-5nzPm1gM5DADa3ZMC2CA9zCic/view?usp=sharing |
 
 ## Quick Start
 
