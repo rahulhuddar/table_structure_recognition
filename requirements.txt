@@ -1,0 +1,14 @@
+torch
+torchvision
+pandas
+scikit-learn
+tqdm
+Cython
+matplotlib
+numpy
+pycocotools
+Pillow
+editdistance
+scikit-image
+scipy
+PyMuPDF
